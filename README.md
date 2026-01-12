@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aryan Thakur  
 
 🎓 **B.Tech Biotechnology Student** | Parul university, (Vadodara Gujarat)  
-📍 **  📊 **Data Science & AI/ML Enthusiast** |IIT Mandi, Himachal Pradesh, India  
+📍 📊 **Data Science & AI/ML Enthusiast** |IIT Mandi, Himachal Pradesh, India  
 
 I am passionate about transforming **data into actionable insights** using **Exploratory Data Analysis (EDA), statistical modeling, and machine learning**.  
 With hands-on experience from **IIT Mandi** and a strong foundation in **AI/ML & Data Science**, I enjoy building intelligent solutions that create real-world impact.
